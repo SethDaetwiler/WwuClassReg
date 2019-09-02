@@ -1,0 +1,11 @@
+Username: daetwis@wwu.edu
+Password: 3321-Slip
+crn 1: 11
+crn 2: 12
+crn 3: 13
+crn 4: 14
+crn 5: 15
+crn 6: 16
+crn 7: 17
+crn 8: 18
+crn 9: 19
